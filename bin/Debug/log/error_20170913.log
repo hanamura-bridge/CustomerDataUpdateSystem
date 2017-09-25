@@ -1,0 +1,2 @@
+2017-09-13 20:22:28,775 [1] CustomerDataUpdateSystem.MainForm.CSV_read - [FATAL] '1' の値は 'Value' に対して有効ではありません。'Value' は 'minimum' と 'maximum' の間でなければなりません。
+パラメーター名:Value

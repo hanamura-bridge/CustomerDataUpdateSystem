@@ -1,0 +1,9 @@
+2017-09-14 13:53:45,419 [1] CustomerDataUpdateSystem.MainForm.CSV_read - [FATAL] '1' の値は 'Value' に対して有効ではありません。'Value' は 'minimum' と 'maximum' の間でなければなりません。
+パラメーター名:Value
+2017-09-14 13:59:46,051 [1] CustomerDataUpdateSystem.MainForm.CSV_read - [FATAL] '1' の値は 'Value' に対して有効ではありません。'Value' は 'minimum' と 'maximum' の間でなければなりません。
+パラメーター名:Value
+2017-09-14 14:23:21,207 [1] CustomerDataUpdateSystem.MainForm.CSV_read - [FATAL] '129' の値は 'Value' に対して有効ではありません。'Value' は 'minimum' と 'maximum' の間でなければなりません。
+パラメーター名:Value
+2017-09-14 14:23:21,227 [1] CustomerDataUpdateSystem.MainForm.CSV_read - [FATAL] '342' の値は 'Value' に対して有効ではありません。'Value' は 'minimum' と 'maximum' の間でなければなりません。
+パラメーター名:Value
+2017-09-14 14:24:30,976 [1] CustomerDataUpdateSystem.MainForm.CSV_read - [FATAL] 列を含んでいない DataGridView コントロールに行を追加することはできません。列を最初に追加してください。

@@ -1,0 +1,10 @@
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\bin\Debug\CustomerDataUpdateSystem.exe.config
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\bin\Debug\CustomerDataUpdateSystem.exe
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\bin\Debug\CustomerDataUpdateSystem.pdb
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\bin\Debug\log4net.dll
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\bin\Debug\log4net.xml
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\obj\Debug\CustomerDataUpdateSystem.MainForm.resources
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\obj\Debug\CustomerDataUpdateSystem.Properties.Resources.resources
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\obj\Debug\CustomerDataUpdateSystem.csproj.GenerateResource.Cache
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\obj\Debug\CustomerDataUpdateSystem.exe
+C:\Users\hanamura\Documents\Visual Studio 2017\Projects\CustomerDataUpdateSystem\CustomerDataUpdateSystem\obj\Debug\CustomerDataUpdateSystem.pdb
